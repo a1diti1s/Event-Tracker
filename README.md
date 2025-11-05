@@ -1,6 +1,6 @@
-# eventcounter
+# Event Tracker
 
-A new Flutter project.
+Will enable you track days left
 
 ## Getting Started
 
